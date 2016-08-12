@@ -1,0 +1,19 @@
+{
+  "name": "word-count",
+  "version": "0.0.1",
+  "description": "Exercism: Javascript solution for the word-count problem.",
+  "main": "word-count.js",
+  "scripts": {
+    "test": "jasmine-node word-count.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jmreed0112358/exercism-javascript-word-count.git"
+  },
+  "author": "Jeremy M. Reed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmreed0112358/exercism-javascript-word-count/issues"
+  },
+  "homepage": "https://github.com/jmreed0112358/exercism-javascript-word-count#readme"
+}
