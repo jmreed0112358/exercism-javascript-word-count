@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jmreed0112358/exercism-javascript-word-count/issues"
   },
-  "homepage": "https://github.com/jmreed0112358/exercism-javascript-word-count#readme"
+  "homepage": "https://github.com/jmreed0112358/exercism-javascript-word-count#readme",
+  "dependencies": {
+    "validator": "^5.5.0",
+    "xregexp": "^3.1.1"
+  }
 }
